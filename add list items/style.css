@@ -89,6 +89,20 @@ body {
     color: #332d2d;
 }
 
+.edit-btn {
+    margin-left: auto;
+    margin-right: 10px;
+    background: #fff;
+    padding: 5px;
+    font-size: 12px;
+}
+
+.close-btn {
+    background: #fff;
+    padding: 5px;
+    font-size: 12px;
+}
+
 .fa-trash {
     margin-left: auto;
     margin-right: 15px;
